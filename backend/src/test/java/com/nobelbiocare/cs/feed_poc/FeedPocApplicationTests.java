@@ -1,4 +1,4 @@
-package com.nobelbiocare.cs.feedpoc;
+package com.nobelbiocare.cs.feed_poc;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -8,9 +8,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class FeedPocApplicationTests {
-
 	@Test
 	public void contextLoads() {
 	}
-
 }
